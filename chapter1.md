@@ -7,7 +7,7 @@ description : Lisapaketi plyr kasutamine
 
 
 
-Paketi **plyr** funktsioonidest `mutate()` on abiks kui on vaja andmestikku uusi tunnuseid lisada. Korraga saab defineerida mitu uut tunnust, kusjuures tunnust, mille defintsioon on käsus juba kirjas, saab kohe samas kasutada.<br><br>
+Paketi **plyr** funktsioonidest `mutate()` on abiks kui on vaja andmestikku uusi tunnuseid lisada. Korraga saab defineerida mitu uut tunnust, kusjuures tunnust, mille definitsioon on käsus juba kirjas, saab kohe samas kasutada.<br><br>
 
 
 
